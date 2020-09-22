@@ -9,6 +9,11 @@
 			"name": "Dashboard",
 			"path": "/",
 			"type": "Custom"
+		},
+		{
+			"name: "My Notifications"
+			"path": "/notifications?query=reason%3Amention"
+			"type": "Custom"
 		}
   ]
 }
